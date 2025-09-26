@@ -1,9 +1,7 @@
 scores = {
-
     "math": 90, 
     "english": 85, 
     "science": 92
-
 }
 
 s = 0
