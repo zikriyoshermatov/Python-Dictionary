@@ -1,9 +1,7 @@
 person = {
-
     "name": "Ali", 
     "age": 25, 
     "city": "Samarqand"
-
 }
 
 key = input("Kalit nomini kiriting: ")

@@ -4,5 +4,5 @@ person = {
     "city": "Tashkent"
 }
 
-del person ["city"]
+del person["city"]
 print(person)
