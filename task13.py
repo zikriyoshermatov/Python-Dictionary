@@ -4,5 +4,5 @@ person = {
     "city": "Tashkent"
 }
 
-person.pop("city")
+del person ["city"]
 print(person)
